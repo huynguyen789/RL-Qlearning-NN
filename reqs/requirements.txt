@@ -1,0 +1,3 @@
+matplotlib==3.7.1
+numpy==1.24.2
+torch==1.13.0a0+git49444c3
