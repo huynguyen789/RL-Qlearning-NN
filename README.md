@@ -1,3 +1,5 @@
+
+
 # GridWorld Q-Network Agent
 
 This repository contains code for a Q-network agent trained to learn the optimal policy for a GridWorld environment. The agent uses a neural network to estimate the Q-values for each state-action pair and is trained using the Q-learning algorithm.
@@ -11,7 +13,7 @@ Numpy
 
 ## Usage
 
-To run the code, simply execute the gridworld_q_network.ipynb file. 
+To run the code, simply execute the project2.ipynb file. 
 
 ## The file contains the following code:
 
