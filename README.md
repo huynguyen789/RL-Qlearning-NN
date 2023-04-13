@@ -6,10 +6,7 @@ This repository contains code for a Q-network agent trained to learn the optimal
 
 ## Requirements
 
-Python 3.x
-PyTorch
-Matplotlib
-Numpy
+pip install the requirements.txt file in resq folder
 
 ## Usage
 
