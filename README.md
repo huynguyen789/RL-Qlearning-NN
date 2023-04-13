@@ -6,7 +6,7 @@ This repository contains code for a Q-network agent trained to learn the optimal
 
 ## Requirements
 
-pip install the requirements.txt file in resq folder
+pip install the requirements.txt file in reqs folder
 
 ## Usage
 
